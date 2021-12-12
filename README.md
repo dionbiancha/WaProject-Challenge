@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+<h1 align="center">
+    Quiz Wa Project
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">
+WaProject - Front-end Challenge
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dionbiancha/waProject-challenge.svg">
 
-## Available Scripts
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dionbiancha/waProject-challenge.svg">
 
-In the project directory, you can run:
+  <a href="https://www.codacy.com/app/dionbiancha/waProject-challenge?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dionbiancha/waProject-challenge&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
+  </a>
 
-### `yarn start`
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dionbiancha/waProject-challenge.svg">
+  <a href="https://github.com/dionbiancha/waProject-challenge/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dionbiancha/waProject-challenge.svg">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://github.com/dionbiancha/waProject-challenge/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/dionbiancha/waProject-challenge.svg">
+  </a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <img alt="GitHub" src="https://img.shields.io/github/license/dionbiancha/waProject-challenge.svg">
+</p>
 
-### `yarn test`
+<p align="center">
+  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :computer: Technologies
 
-### `yarn build`
+This project was developed with the following technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [NextJS][nextjs]
+- [TypeScript][typescript]
+- [Eslint][eslint]
+- [Prettie][prettie]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :information_source: How To Use
 
-### `yarn eject`
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Clone this repository
+$ git clone https://github.com/dionbiancha/waProject-challenge
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Go into the repository
+$ cd waProject-challenge
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Install dependencies
+$ yarn 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Run the app
+$ yarn dev
+```
 
-## Learn More
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/dionbiancha/waProject-challenge/blob/master/LICENSE) for more information.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Made with :heartpulse: by Dionei Bianchati :wave: [Get in touch!](https://www.linkedin.com/in/dionbiancha/)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[nextjs]: https://nextjs.org/
+[prettie]: https://prettier.io/
+[eslint]: https://eslint.org/
+[typescript]: https://www.typescriptlang.org/
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
